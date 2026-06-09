@@ -8,14 +8,12 @@
 
 ## Milestone 1: HTML Structure
 - Built four pages: `index.html`, `attractions.html`, `accomodations.html`, and `gallery.html`.
-- Used semantic sections (`nav`, `header`, `main`, `section`, `article`, `figure`, `footer`) to keep content organized.
 - Kept a consistent navigation bar on every page for easy movement across the site.
 - Structured attractions and accommodations as repeatable cards so the layout stays consistent.
 
 ## Milestone 2: CSS Styling
 - Chose a coastal blue palette to match Mauritius beach and ocean vibes.
 - Added card borders, rounded corners, and spacing to separate content clearly.
-- Styled the home banner with overlaid heading text for a strong first impression.
 - Kept styling in a single `styles.css` file to make updates easier across all pages.
 
 ## Milestone 3: Flexbox Layout
